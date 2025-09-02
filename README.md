@@ -1,5 +1,5 @@
 # 8 Puzzle Solver 
-This prolect is an implementation of the 8 puzzle problem in Python
+This project is an implementation of the 8 puzzle problem in Python
 ## How to run
 1.Clone the repository
 
